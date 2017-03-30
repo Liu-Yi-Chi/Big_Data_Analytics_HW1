@@ -39,7 +39,7 @@ mydata = pd.read_csv('/Microsoft-Malware-Challenge/Dataset/train/LargeTrain.csv'
 X = np.array(mydata.ix[:,0:1804])
 y = np.array(mydata.ix[:,1804:1805]).ravel()
 
-forest = ExtraTreesClassifier(n_estimators=100,
+forest = ExtraTreesClassifier(n_estimators=10,
                               random_state=0)
 
 forest.fit(X, y)
