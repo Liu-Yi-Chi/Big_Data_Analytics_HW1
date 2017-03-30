@@ -18,6 +18,12 @@
 	- 老師很認真，目前為止介紹很多分析資料的相關應用，但希望老師可以放慢一點速度，更深入與完整介紹應用，對於初學者而言，會更有幫助，謝謝老師。
 
 ------------
+##### Reference :
+1. scikit-learn.org
+	- http://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html
+1. Microsoft-Malware-Challenge
+	- https://github.com/ManSoSec/Microsoft-Malware-Challenge
+------------
 ##### Code :
 ```python
 %matplotlib inline
