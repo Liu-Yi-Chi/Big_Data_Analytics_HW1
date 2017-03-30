@@ -64,4 +64,4 @@ plt.show()
 ------------
 
 ##### Result :
-![](https://github.com/Liu-Yi-Chi/Big_Data_Analytics_HW1/tree/master/img)
+![](https://github.com/Liu-Yi-Chi/Big_Data_Analytics_HW1/blob/master/img/result.PNG)
