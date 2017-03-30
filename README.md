@@ -4,9 +4,9 @@
 ##### Q&A :
 
 1. 哪些屬性對於惡意程式分類有效？
-#####利用 Feature importances with forests of trees 分析惡意程式，若輸出結果『importances』愈高者，則判斷該屬性對惡意程式分類較有效。
+##### 利用 Feature importances with forests of trees 分析惡意程式，若輸出結果『importances』愈高者，則判斷該屬性對惡意程式分類較有效。
 1. 哪些屬性對於惡意程式分類無效？
-#####利用 Feature importances with forests of trees 分析惡意程式，若輸出結果『importances』愈低者，則判斷該屬性對惡意程式分類較無效。
+##### 利用 Feature importances with forests of trees 分析惡意程式，若輸出結果『importances』愈低者，則判斷該屬性對惡意程式分類較無效。
 1. 用什麼方法可以幫助你決定上述的結論？
 ##### Feature importances with forests of trees
 1. 透過Python哪些套件以及方法可以幫助你完成上面的工作？
@@ -65,3 +65,4 @@ plt.show()
 ------------
 
 ##### Result :
+![]https://github.com/Liu-Yi-Chi/Big_Data_Analytics_HW1/tree/master/img
